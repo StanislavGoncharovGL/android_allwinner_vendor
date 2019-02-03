@@ -1,2 +1,2 @@
-# android_sunxi_vendor
-Sunxi vendor repository
+# android_allwinner_vendor
+Allwinner vendor repository
